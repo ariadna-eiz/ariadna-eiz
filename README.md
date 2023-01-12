@@ -13,6 +13,6 @@
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-120082?style=for-the-badge&logo=Charles)
 ![English B2](https://img.shields.io/badge/-English(B2)-120082?style=for-the-badge&logo=)
 
-Follow me
+## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-6014bb?style=for-the-badge&logo=Telegram)](https://t.me/ariadna_eiz)
 [![Facebook](https://img.shields.io/badge/-Facebook-6014bb?style=for-the-badge&logo=Facebook)](https://www.facebook.com/eizenkhart/)

@@ -20,4 +20,5 @@
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-6014bb?style=for-the-badge&logo=Telegram)](https://t.me/ariadna_eiz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6014bb?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ariadna-eizenkhart-811706259/?midToken=AQGl2cML5_DpBw&midSig=0p-YAfcipquqA1&trk=eml-email_jobs_first_time_job_seeker_01-header-35-profile&trkEmail=eml-email_jobs_first_time_job_seeker_01-header-35-profile-null-hnpkwd%7Elckw21ga%7Ei7-null-neptune%2Fprofile%7Evanity%2Eview)
 [![Facebook](https://img.shields.io/badge/-Facebook-6014bb?style=for-the-badge&logo=Facebook)](https://www.facebook.com/eizenkhart/)

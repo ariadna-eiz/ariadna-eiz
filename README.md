@@ -16,7 +16,8 @@
 ### My CV
 
 ### Testing Documentation
-[Checklist for TRAE](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit#gid=862661712)
+[TRAE: I'm working on the documentation right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
+[Yandex Самокат: Functional Testing Checklist, Validation Checklist, Test Cases For Push Notification, Test Cases for Pop-up Window, REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-6014bb?style=for-the-badge&logo=Telegram)](https://t.me/ariadna_eiz)

@@ -30,6 +30,3 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-6014bb?style=for-the-badge&logo=Facebook)](https://www.facebook.com/eizenkhart/)
 
 ### [Certificate of Completion of the QA Engineer Training Course](https://drive.google.com/file/d/1Fod0lzl9bil5wtZ7qNUi7vJ-R5D6byQY/view?usp=share_link)
-
-[![Ariadna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariadna-eiz&count_private=true&show_icons=true&theme=jolly)
-](https://github.com/anuraghazra/github-readme-stats)

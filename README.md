@@ -18,18 +18,20 @@
 ### [My CV](https://drive.google.com/file/d/1eVsGSjD-FqZ6Y-4wAPRHnV0UPyOn75u_/view?usp=share_link)
 
 ### Testing Documentation
-[TRAE: I'm working on the documentation right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
+[TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
 
 [Yandex Самокат: * Functional Testing Checklist, * Validation Checklist, * Test Cases For Push Notification, * Test Cases for Pop-up Window, * REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)
 
 [Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-6014bb?style=for-the-badge&logo=Telegram)](https://t.me/ariadna_eiz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6014bb?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ariadna-eizenkhart-811706259/?midToken=AQGl2cML5_DpBw&midSig=0p-YAfcipquqA1&trk=eml-email_jobs_first_time_job_seeker_01-header-35-profile&trkEmail=eml-email_jobs_first_time_job_seeker_01-header-35-profile-null-hnpkwd%7Elckw21ga%7Ei7-null-neptune%2Fprofile%7Evanity%2Eview)
+[![Хабр](https://img.shields.io/badge/-Хабр-6014bb?style=for-the-badge&logo=habr)](https://habr.com/ru/users/ariadna_eiz/)
+[![Telegram](https://img.shields.io/badge/-Telegram-6014bb?style=for-the-badge&logo=Telegram)](https://t.me/ariadna_eiz)
 [![Facebook](https://img.shields.io/badge/-Facebook-6014bb?style=for-the-badge&logo=Facebook)](https://www.facebook.com/eizenkhart/)
 
 ### [Certificate of Completion of the QA Engineer Training Course](https://drive.google.com/file/d/1Fod0lzl9bil5wtZ7qNUi7vJ-R5D6byQY/view?usp=share_link)
 
 [![Ariadna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariadna-eiz&count_private=true&show_icons=true&theme=jolly)
 ](https://github.com/anuraghazra/github-readme-stats)
+

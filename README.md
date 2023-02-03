@@ -25,6 +25,9 @@
 
 [Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6014bb?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ariadna-eizenkhart-811706259/?midToken=AQGl2cML5_DpBw&midSig=0p-YAfcipquqA1&trk=eml-email_jobs_first_time_job_seeker_01-header-35-profile&trkEmail=eml-email_jobs_first_time_job_seeker_01-header-35-profile-null-hnpkwd%7Elckw21ga%7Ei7-null-neptune%2Fprofile%7Evanity%2Eview)
 [![Хабр](https://img.shields.io/badge/-Хабр-6014bb?style=for-the-badge&logo=habr)](https://habr.com/ru/users/ariadna_eiz/)

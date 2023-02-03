@@ -1,6 +1,7 @@
 ![Header](https://github.com/ariadna-eiz/ariadna-eiz/blob/main/assets/explorer_a1wpu1D2nN.png)
 
-## I'm a QA Engineer.
+## <h1 align="center">Hi there, I'm Ariadna! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a QA-engeneer.</h3>
 
 ### Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-120082?style=for-the-badge&logo=devtools)

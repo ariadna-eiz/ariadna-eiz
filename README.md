@@ -3,6 +3,17 @@
 ## <h1 align="center">Hi there, I'm Ariadna! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a QA-engeneer.</h3>
 
+## [My CV](https://drive.google.com/file/d/1DMohBla_H1DvkmpMC0MoPLAg6pLX9AuF/view?usp=sharing)
+
+
+## Testing Documentation
+[TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
+
+[Yandex Самокат: * Functional Testing Checklist, * Validation Checklist, * Test Cases For Push Notification, * Test Cases for Pop-up Window, * REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)
+
+[Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)
+
+
 ## Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-120082?style=for-the-badge&logo=devtools)
 ![Postman](https://img.shields.io/badge/-Postman-120082?style=for-the-badge&logo=postman)
@@ -16,17 +27,10 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-120082?style=for-the-badge&logo=TestRail)
 ![English B2](https://img.shields.io/badge/-English(B2)-120082?style=for-the-badge&logo=)
 
-## [My CV](https://drive.google.com/file/d/1DMohBla_H1DvkmpMC0MoPLAg6pLX9AuF/view?usp=sharing)
-
-## Testing Documentation
-[TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
-
-[Yandex Самокат: * Functional Testing Checklist, * Validation Checklist, * Test Cases For Push Notification, * Test Cases for Pop-up Window, * REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)
-
-[Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6014bb?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ariadna-eizenkhart-811706259/?midToken=AQGl2cML5_DpBw&midSig=0p-YAfcipquqA1&trk=eml-email_jobs_first_time_job_seeker_01-header-35-profile&trkEmail=eml-email_jobs_first_time_job_seeker_01-header-35-profile-null-hnpkwd%7Elckw21ga%7Ei7-null-neptune%2Fprofile%7Evanity%2Eview)

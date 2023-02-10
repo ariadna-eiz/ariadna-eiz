@@ -16,7 +16,7 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-120082?style=for-the-badge&logo=TestRail)
 ![English B2](https://img.shields.io/badge/-English(B2)-120082?style=for-the-badge&logo=)
 
-### [My CV](https://drive.google.com/file/d/1eVsGSjD-FqZ6Y-4wAPRHnV0UPyOn75u_/view?usp=share_link)
+### [My CV](https://drive.google.com/file/d/1DMohBla_H1DvkmpMC0MoPLAg6pLX9AuF/view?usp=sharing)
 
 ### Testing Documentation
 [TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)

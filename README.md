@@ -3,7 +3,7 @@
 ## <h1 align="center">Hi there, I'm Ariadna! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a QA-engeneer.</h3>
 
-### Languages and Tools
+## Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-120082?style=for-the-badge&logo=devtools)
 ![Postman](https://img.shields.io/badge/-Postman-120082?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-120082?style=for-the-badge&logo=swagger)
@@ -16,9 +16,9 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-120082?style=for-the-badge&logo=TestRail)
 ![English B2](https://img.shields.io/badge/-English(B2)-120082?style=for-the-badge&logo=)
 
-### [My CV](https://drive.google.com/file/d/1DMohBla_H1DvkmpMC0MoPLAg6pLX9AuF/view?usp=sharing)
+## [My CV](https://drive.google.com/file/d/1DMohBla_H1DvkmpMC0MoPLAg6pLX9AuF/view?usp=sharing)
 
-### Testing Documentation
+## Testing Documentation
 [TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
 
 [Yandex Самокат: * Functional Testing Checklist, * Validation Checklist, * Test Cases For Push Notification, * Test Cases for Pop-up Window, * REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)

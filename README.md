@@ -9,6 +9,8 @@
 ## Testing Documentation
 [TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
 
+[«i wanna flower»: research functional testing](https://docs.google.com/spreadsheets/d/12LWsZBso8cBERHSpNNBgKqFgzw9xSQxDvnLUay4A83Q/edit#gid=0)
+
 [Yandex Самокат: * Functional Testing Checklist, * Validation Checklist, * Test Cases For Push Notification, * Test Cases for Pop-up Window, * REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)
 
 [Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)

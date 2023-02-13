@@ -29,7 +29,7 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-120082?style=for-the-badge&logo=TestRail)
 ![English B2](https://img.shields.io/badge/-English(B2)-120082?style=for-the-badge&logo=)
 
-## [Latest Habr blog posts] (https://habr.com/ru/users/ariadna_eiz/posts/)
+## [Latest Habr blog posts](https://habr.com/ru/users/ariadna_eiz/posts/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

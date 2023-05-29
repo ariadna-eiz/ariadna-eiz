@@ -7,6 +7,9 @@
 
 
 ## Testing Documentation
+
+[Тестовое задание_NodaSoft](https://docs.google.com/document/d/1XXyqdDd37djG1s8N2pJCWihH1qkHmQ5kQYAhdz31XTE/edit?usp=sharing)
+
 [TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
 
 [«i wanna flower»: research functional testing](https://docs.google.com/spreadsheets/d/12LWsZBso8cBERHSpNNBgKqFgzw9xSQxDvnLUay4A83Q/edit#gid=0)
@@ -27,6 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-120082?style=for-the-badge&logo=GitHub)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-120082?style=for-the-badge&logo=Charles)
 ![TestRail](https://img.shields.io/badge/-TestRail-120082?style=for-the-badge&logo=TestRail)
+![DBeaver](https://img.shields.io/badge/-DBeaver-120082?style=for-the-badge&logo=DBeaver)
 ![English B2](https://img.shields.io/badge/-English(B2)-120082?style=for-the-badge&logo=)
 
 ## [Latest Habr blog posts](https://habr.com/ru/users/ariadna_eiz/posts/)

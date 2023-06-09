@@ -3,21 +3,17 @@
 ## <h1 align="center">Hi there, I'm Ariadna! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a QA-engeneer.</h3>
 
-## [My CV](https://drive.google.com/file/d/1aMsLyfpmMKMY-B4bo5uSM_ZY0CAlvCYC/view?usp=share_link)
+## [My CV](https://drive.google.com/file/d/1na9bFe6o2WuvyCs5sIsTccDzfyndNOqA/view?usp=sharing)
 
 
 ## Testing Documentation
 
 [Тестовое задание_NodaSoft](https://docs.google.com/document/d/1XXyqdDd37djG1s8N2pJCWihH1qkHmQ5kQYAhdz31XTE/edit?usp=sharing)
 
-[TRAE: I'm working on it right now](https://docs.google.com/spreadsheets/d/1MPg0jTYXhQfRL-2EMRQxyKWiSjtdwElPuHrEutpRHKg/edit?usp=sharing)
-
-[«i wanna flower»: research functional testing](https://docs.google.com/spreadsheets/d/12LWsZBso8cBERHSpNNBgKqFgzw9xSQxDvnLUay4A83Q/edit#gid=0)
-
-[Yandex Самокат: * Functional Testing Checklist, * Validation Checklist, * Test Cases For Push Notification, * Test Cases for Pop-up Window, * REST API Checklist,order form mindmap](https://docs.google.com/spreadsheets/d/1CxVrCZYPT2TqviqsXyTCQnp-RxqjsSCLAAJTr_AOGw4/edit?usp=sharing)
-
 [Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)
 
+Да, тут было много ссылок, но мой диплом и задания по спринтам от Яндекс Практикум, которые я делала самостоятельно, и которые были высоко оценены, стали утекать к недобросовестным студентам.
+Так же теперь моя рабочая документация является закрытой.
 
 ## Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-120082?style=for-the-badge&logo=devtools)

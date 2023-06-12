@@ -3,7 +3,7 @@
 ## <h1 align="center">Hi there, I'm Ariadna! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a QA-engeneer.</h3>
 
-## [My CV](https://drive.google.com/file/d/1na9bFe6o2WuvyCs5sIsTccDzfyndNOqA/view?usp=sharing)
+## [My CV](https://drive.google.com/file/d/1KqaHduKz3-_WvAbe4hK680e2uFOOSrA-/view?usp=sharing)
 
 
 ## Testing Documentation

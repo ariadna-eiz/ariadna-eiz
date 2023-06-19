@@ -1,7 +1,7 @@
 ![Header](https://github.com/ariadna-eiz/ariadna-eiz/blob/main/assets/explorer_a1wpu1D2nN.png)
 
-## <h1 align="center">Hi there, I'm Ariadna! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a QA-engeneer.</h3>
+## <h1 align="center">Hi, everybody! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">My name is Ariadna. I am Quality Assurance Engineer Junior+.</h3>
 
 ## [My CV](https://drive.google.com/file/d/1KqaHduKz3-_WvAbe4hK680e2uFOOSrA-/view?usp=sharing)
 

@@ -1,19 +1,9 @@
 ![Header](https://github.com/ariadna-eiz/ariadna-eiz/blob/main/assets/explorer_a1wpu1D2nN.png)
 
 ## <h1 align="center">Hi, everybody! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">My name is Ariadna. I am Quality Assurance Engineer Junior+.</h3>
+<h3 align="center">My name is Ariadna. I am Quality Assurance Engineer Middle.</h3>
 
 ## [My CV](https://drive.google.com/file/d/1KqaHduKz3-_WvAbe4hK680e2uFOOSrA-/view?usp=sharing)
-
-
-## Testing Documentation
-
-[Тестовое задание_NodaSoft](https://docs.google.com/document/d/1XXyqdDd37djG1s8N2pJCWihH1qkHmQ5kQYAhdz31XTE/edit?usp=sharing)
-
-[Postman Collection for Yandex Самокат](https://drive.google.com/file/d/1UZUt1Xx45EqXdetmXcdKFWYZx86wJvZL/view?usp=share_link)
-
-Да, тут было много ссылок, но мой диплом и задания по спринтам от Яндекс Практикум, которые я делала самостоятельно, и которые были высоко оценены, стали утекать к недобросовестным студентам.
-Так же теперь моя рабочая документация является закрытой.
 
 ## Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-120082?style=for-the-badge&logo=devtools)
